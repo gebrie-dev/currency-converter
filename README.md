@@ -122,3 +122,5 @@ npm install
 bash
 Copy code
 npm start
+[![Project Video](https://img.youtube.com/vi/MDuzdPnz424/0.jpg)](https://youtu.be/MDuzdPnz424)
+
