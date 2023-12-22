@@ -1,0 +1,20 @@
+{
+  "short_name": "c-coverter",
+  "name": "currency-converter-app",
+  "icons": [
+    {
+      "src": "%PUBLIC_URL%/icons/android-icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "%PUBLIC_URL%/icons/apple-touch-icon-1024x1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
